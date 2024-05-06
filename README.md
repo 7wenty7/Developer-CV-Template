@@ -26,6 +26,7 @@ Developer-CV-Template is a sleek and customizable CV template for developers, de
 
 ## Credits
 
+- Original Hugo Version By [Diogot Correia](https://github.com/diogotcorreia/cv).
 - Font Awesome - For providing a collection of high-quality icons.
 - Hugo - Used for generating the initial HTML structure.
 
