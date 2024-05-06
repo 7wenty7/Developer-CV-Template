@@ -1,5 +1,8 @@
 # Developer-CV-Template
 
+![f2903efe693550c1c2f64327b0110cb5.png](https://imgtr.ee/images/2024/05/06/f2903efe693550c1c2f64327b0110cb5.png)
+
+
 
 Developer-CV-Template is a sleek and customizable CV template for developers, designed using HTML and CSS. It provides a professional layout for showcasing skills and experiences in a clear and concise manner. The template supports both dark and light modes, multilingual capabilities, and easy customization.
 
